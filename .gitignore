@@ -27,3 +27,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/Dependencies/commons-io-2.15.0/docs/
